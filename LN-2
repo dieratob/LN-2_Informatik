@@ -1,1 +1,18 @@
-Test test
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "f9b9983c",
+   "metadata": {},
+   "source": [
+    "# COVID-Zahlen im Januar 2020 und 2021\n",
+    "\n",
+    "Gruppe: Tobias Dierauer und Anselmo Assetta\n",
+    "\n",
+    "Fragen\n",
+    "-Welche Länder hatten in der ersten und zweiten Welle der COVID-Pandemie die höchsten Infektionszahlen?\n",
+      Wie haben sich diese von der ersten zur zweiten Welle verändert und was sind die gründe dafür\n",
+    "Quellen\n",
+    "ourworldindata"- \n"
+   ]
+  },
